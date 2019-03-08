@@ -9,6 +9,7 @@
 缘起 http://note.youdao.com/noteshare?id=467bc7400e474411b84e784972d9095a
 
 #### 1.0、后台应用开发框架
+0、后台应用开发框架简介 http://note.youdao.com/noteshare?id=bf7dc075df4542b6c76ad3c71313f35b
 
 #### 1.1、前端应用解决方案
 
